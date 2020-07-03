@@ -1,0 +1,13 @@
+package com.project.developers.types;
+
+public enum DeveloperTypes {
+	JAVA,
+	SENIORJAVA,
+	ARCHITECTJAVA,
+	JAVASCRIPT,
+	SENIORJAVASCRIPT,
+	ARCHITECTJAVASCRIPT,
+	PYTHON,
+	SENIORPYTHON,
+	ARCHITECTPYTHON
+}
